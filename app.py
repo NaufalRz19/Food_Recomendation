@@ -29,7 +29,7 @@ def Get_Recommendations(title):
 st.title('Sistem Rekomendasi 🍴')
 st.header('Menggunakan algoritma TF-IDF dan Cosine Similarities', divider='grey')
 
-user_input = st.text_input('Nama Makanan', placeholder='Masukan Nama Makanan yang dinginkan')
+user_input = st.text_input('Nama Makanan', placeholder='Masukan Nama Makanan yang diinginkan')
 
 user_input = user_input.lower()
 
