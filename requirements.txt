@@ -103,7 +103,7 @@ pandas==2.0.2
 # seaborn==0.12.2
 # sewar==0.4.5
 # six==1.16.0
-sklearn==0.0.post5
+scikit-learn==0.0.post5
 # smart-open==6.4.0
 # smmap==5.0.1
 # spacy==3.6.1
